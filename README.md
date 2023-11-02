@@ -31,3 +31,9 @@ ENV was consciously included due to the need  of API Communication
 
 This Application was developt using `MERN Stack` 
 MongoDB | ExpressJs | ReactJs | NodeJs
+
+### Preview
+
+![image](https://github.com/luckyluxx/skill-fit-test-beon-intermedia-FRONTEND/assets/83388557/93cc7280-a96f-43a9-aac5-711317cb840d)
+![image](https://github.com/luckyluxx/skill-fit-test-beon-intermedia-FRONTEND/assets/83388557/414cef4f-166f-4626-8a15-45d32d6bc989)
+
